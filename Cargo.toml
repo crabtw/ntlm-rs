@@ -1,0 +1,11 @@
+[package]
+name = "ntlm"
+version = "0.1.0"
+license = "MIT"
+authors = ["Jyun-Yan You <jyyou.tw@gmail.com>"]
+
+[dependencies]
+openssl = "~0.7"
+bitflags = "~0.7"
+byteorder = "~0.5"
+time = "~0.1"
